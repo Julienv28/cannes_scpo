@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de nous
+subtitle: Apprenez-en plus sur nos profils !
 ---
 
 Nous sommes les associations cinéphiles de Sciences Po Paris.
